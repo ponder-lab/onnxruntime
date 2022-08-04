@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/docs/python/inference/examples</path>
+        <path>/${PROJECT_DIR_NAME}/onnxruntime/core/flatbuffers/ort_flatbuffers_py</path>
+        <path>/${PROJECT_DIR_NAME}/onnxruntime/python</path>
+        <path>/${PROJECT_DIR_NAME}/orttraining/orttraining/python</path>
+        <path>/${PROJECT_DIR_NAME}/orttraining/orttraining/test/external_transformer/test</path>
+        <path>/${PROJECT_DIR_NAME}/orttraining/orttraining/test/external_custom_ops/testdata</path>
+        <path>/${PROJECT_DIR_NAME}/orttraining/orttraining/test/python</path>
+        <path>/${PROJECT_DIR_NAME}/orttraining/pytorch_frontend_examples</path>
+        <path>/${PROJECT_DIR_NAME}/orttraining/tools/ci_test</path>
+        <path>/${PROJECT_DIR_NAME}/orttraining/tools/scripts</path>
+        <path>/${PROJECT_DIR_NAME}/samples/python</path>
+        <path>/${PROJECT_DIR_NAME}/tools/python</path>
+        <path>/${PROJECT_DIR_NAME}/tools/ci_build</path>
+        <path>/${PROJECT_DIR_NAME}/tools/nuget</path>
+    </pydev_pathproperty>
+</pydev_project>
